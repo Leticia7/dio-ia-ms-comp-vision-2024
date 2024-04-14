@@ -45,7 +45,8 @@ Atividade de reconhecimento de textos no Azure AI Studio
 
           
     4º Escolhi a opção "browse files" e adicionei as imagens que desejei
-        • Após isso realizei os testes como indicado na pasta output
+   
+      • Após isso realizei os testes como indicado na pasta output
 
      ![4](https://github.com/Leticia7/dio-ia-ms-comp-vision-2024/assets/65042673/9eed35ec-1453-4d13-a6b0-1a764fb07e9f)
 
