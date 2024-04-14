@@ -30,14 +30,27 @@ Atividade de reconhecimento de textos no Azure AI Studio
      • Utlizando a conta que possuo de estudante 
      • https://portal.vision.cognitive.azure.com/
 
+      ![1](https://github.com/Leticia7/dio-ia-ms-comp-vision-2024/assets/65042673/bf3216db-c7b6-4cce-a54e-92bb5ba08d1f)
+
+
+
     2º Selecionei o recurso criado durante o módulo
 
+      ![2](https://github.com/Leticia7/dio-ia-ms-comp-vision-2024/assets/65042673/720d1a7c-0705-4f3b-8abc-9f06d2d63c1f)
+
+
     3º Escolhi o "Extract texts from images"
+
+       ![3](https://github.com/Leticia7/dio-ia-ms-comp-vision-2024/assets/65042673/17828e74-32e9-4fb0-94e6-219b14308455)
+
           
     4º Escolhi a opção "browse files" e adicionei as imagens que desejei
         • Após isso realizei os testes como indicado na pasta output
+
+       ![4](https://github.com/Leticia7/dio-ia-ms-comp-vision-2024/assets/65042673/9eed35ec-1453-4d13-a6b0-1a764fb07e9f)
+
     
-5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+6. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 
         Feito
 
